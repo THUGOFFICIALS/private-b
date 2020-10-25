@@ -21,10 +21,9 @@ Hi {}, my name is {}!
 // I am an Anime themed group management bot with a lot of Special Features.
 You can find the list of available commands with /help.
 ==========================
--> [Lynda's Repo](https://waa.ai/Lynda)
--> Report [Lynda Support](https://t.me/LyndaEagleSupport) if I go offline
+-> [ANYONYMOUS](PREMKIBHENRANDI)
 ==========================
-`Maintained by` @YorktownEagleUnion
+`Maintained by` THUG
 
 """
 
@@ -43,7 +42,7 @@ start the bot
 PM's you this message.
 -> `/help` <module name>
 PM's you info about that module.
--> `/donate`
+-> `/`
 information about how to donate!
 -> `/settings`
 will redirect you to pm, with all that chat's settings.
@@ -51,7 +50,7 @@ will redirect you to pm, with all that chat's settings.
 {}
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with `/` or `!`.\n")
 
-LYNDA_IMG = "https://telegra.ph/file/aa808a7a26a011cdf613e.jpg"
+THUG_IMG = "https://telegra.ph/file/d793fdd95a5ec16b99052.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 Lynda is hosted on one of Digital Ocean Servers. \
